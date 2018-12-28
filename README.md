@@ -1,2 +1,2 @@
-# machin_learning
+# machine_learning
 Coursera python assignment
